@@ -1,0 +1,17 @@
+[gd_scene load_steps=3 format=3 uid="uid://dmkhlaib8krx7"]
+
+[ext_resource type="Texture2D" uid="uid://ued7pxnqnlmf" path="res://images/barbTL01.png" id="1_j4ii6"]
+[ext_resource type="Script" path="res://test2/testdel_2.gd" id="1_jkkmm"]
+
+[node name="testdel_2" type="Node2D"]
+z_index = 10
+z_as_relative = false
+script = ExtResource("1_jkkmm")
+
+[node name="TextRect" type="TextureRect" parent="."]
+z_as_relative = false
+offset_left = 16.0
+offset_top = 16.0
+offset_right = 752.0
+offset_bottom = 592.0
+texture = ExtResource("1_j4ii6")
