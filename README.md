@@ -17,19 +17,4 @@ press "run current scene" button ( F6 )...
 
 
 
-0,
-
-
-
-
-This project its in a very early stage. Iam adding it to gitHub now, has a motivation
-to keep me doing it and finishen it.
-
-
-Now that "godot4 tileMap" flips/rotations are done and have been added, this "tileDraw editor" is useless, 
-hopefully i will be able to finished it, and give the user and myself enough understanding and experience, 
-that coding a tileSet is not something very difficult to do.
-
-0,
-
 
