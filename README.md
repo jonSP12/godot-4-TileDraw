@@ -14,7 +14,7 @@ Drawing Tiles using draw func / subViewPort
 [EDIT],
 
 Download the project added it to your Godot4 projects, 
-open the scene "testedel.tscn",
+open the scene "testedel2.tscn",
 and press "run current scene" button ( F6 )... 
 Running the "main scene" will go to a diferent example.
 
