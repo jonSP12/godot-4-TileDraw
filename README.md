@@ -12,7 +12,8 @@ press "run current scene" button ( F6 )...
 - tile groups are now drawn instead of an entire tile image has they were in ( testedel.tscn )
 - left mouse button draw/select tiles, right mouse button eraser
 
-![gitHubTileDraw3](https://github.com/jonSP12/godot-4-TileDraw/assets/77213594/f67bdefd-4d35-43e8-92d4-691288cdae8c)
+![gitHubTileDraw4](https://github.com/jonSP12/godot-4-TileDraw/assets/77213594/15cf714a-f6c9-48d9-a311-dcde2070b457)
+
 
 
 DRAWING WITH THE VIEWPORT
