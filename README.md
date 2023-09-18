@@ -3,7 +3,7 @@ Drawing Tiles using draw func / subViewPort
 
 [EDIT],
 
-upDated "testedel2.tscn", all working
+upDated "testedel_2.tscn", all working
 press "run current scene" button ( F6 )... 
 
 - Making an editor plugIn,
