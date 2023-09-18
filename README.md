@@ -7,7 +7,7 @@ upDated "testedel_2.tscn", all working
 press "run current scene" button ( F6 )... 
 
 - Making an editor plugIn,
-- new scene added testedel2.tscn in folder test2
+- new scene added testedel_2.tscn in folder test2
 - Select the tile/tiles in the image,
 - tile groups are now drawn instead of an entire tile image has they were in ( testedel.tscn )
 - left mouse button draw/select tiles, right mouse button eraser
