@@ -22,7 +22,8 @@ DRAWING WITH THE VIEWPORT
 - comment for loop in line 187
 - arrow key flip/rotate, pageDown eraser, pageUp normal
 
-![gitHubTileDraw2](https://github.com/jonSP12/godot-4-TileDraw/assets/77213594/f1fec7ee-14d0-43e9-a2dd-945f47810770)
+![gitHubTileDraw2](https://github.com/jonSP12/godot-4-TileDraw/assets/77213594/8afd4d5e-4af5-4737-bb9c-ae46f310c29a)
+
 
 o
 o
